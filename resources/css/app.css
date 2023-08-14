@@ -1,0 +1,12 @@
+@media print {
+    /* Estilos para la versión impresa */
+    body {
+      font-size: 12pt;
+      margin: 0;
+      padding: 0;
+      color:blue
+    }
+    
+    /* Otros estilos específicos para la impresión */
+  }
+  

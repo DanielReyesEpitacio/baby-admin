@@ -1,0 +1,12 @@
+header,footer {
+    background-color: #FD0803;
+    color:white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white; /* Cambia el color del texto a rojo */
+}
+
+.baby-btn-primary{
+    background-color: #FD0803;
+}
